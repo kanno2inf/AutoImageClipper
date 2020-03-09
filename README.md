@@ -1,7 +1,7 @@
 # Auto Image Clipper
 
 指定サイズに縮小、クリッピングした画像を生成します
-Clusterのワールドのサムネ画像など
+Clusterのワールドサムネ画像など
 
 ## トリミングの仕様
 
@@ -13,7 +13,7 @@ Clusterのワールドのサムネ画像など
 
 ファイル名末尾に`-trim`を付けて保存します
 
-iamge.png -> image-trim.png
+image.png -> image-trim.png
 
 同一ファイル名があった場合上書きします
 
